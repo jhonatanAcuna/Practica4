@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Ahorcado/Ahorcado.cpp
+iostream
+-
+Ahorcado.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Ahorcado/Ahorcado.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Ahorcado/Ahorcado.h
+string
+-
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Ahorcado/main.cpp
+iostream
+-
+Ahorcado.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Ahorcado/Ahorcado.h
+
