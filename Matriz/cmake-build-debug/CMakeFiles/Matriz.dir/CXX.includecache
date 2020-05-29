@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Matriz/Matriz.cpp
+Matriz.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Matriz/Matriz.h
+iostream
+-
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Matriz/Matriz.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Matriz/main.cpp
+iostream
+-
+Matriz.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Matriz/Matriz.h
+

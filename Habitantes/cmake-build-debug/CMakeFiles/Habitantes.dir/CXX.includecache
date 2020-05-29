@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Complejo.cpp
+iostream
+-
+Complejo.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Complejo.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Complejo.h
+Torre.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Torre.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Departamentos.h
+string
+-
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Piso.h
+Departamentos.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Departamentos.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Torre.h
+Piso.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Piso.h
+
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/main.cpp
+iostream
+-
+Complejo.h
+C:/Users/jacun/OneDrive/Escritorio/2020-A/PS-L/Lab04/Habitantes/Complejo.h
+
