@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Pascal.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Pascal.dir/objects.a @CMakeFiles\Pascal.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Pascal.dir/objects.a -Wl,--no-whole-archive  -o Pascal.exe -Wl,--out-implib,libPascal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pascal.dir\linklibs.rsp
